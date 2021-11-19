@@ -1,0 +1,25 @@
+h1{
+	background-color: yellow;
+
+}
+/*class ditels start*/
+.header1{
+	font-size: 25px;
+	color: blue;
+	background-color: orange;
+
+}
+.border{
+	border: 3px solid limegreen;
+}
+/*class ditels end*/
+/*id ditels start*/
+#h5{
+	font-size: 30px;
+	background-color: red;
+}
+/*id ditels end*/
+
+
+
+
